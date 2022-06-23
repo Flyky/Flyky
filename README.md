@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :wink: This is Flyky, nice to meet you ~
+- 🌱 I’m currently learning Vue, Golang ...
+- 📫 How to reach me: flyky@flyky.org
+- :bookmark: I will share something here: https://blog8.flyky.net
+- :eyes: Maybe I am interested in these games: Minecraft | Genshin
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Flyky&show_icons=true" align="left" alt="Flyky's Github Stats" />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyky" align="right" alt="Flyky's Github Stats" />
