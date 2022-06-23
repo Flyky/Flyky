@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyky" align="right" alt="Flyky's Github Stats" />
 ### Hi there 👋
 
 <!--
@@ -22,4 +23,3 @@ Here are some ideas to get you started:
 - :eyes: Maybe I am interested in these games: Minecraft | Genshin
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Flyky&show_icons=true" align="left" alt="Flyky's Github Stats" />-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flyky" align="right" alt="Flyky's Github Stats" />
